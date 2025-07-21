@@ -10,6 +10,7 @@ A simple, fast and responsive calculator built using HTML, CSS and JavaScript.
 - Responsive layout for desktop and mobile
 
 If you interested with my calculator , pleased donate me 
+
 If you need a support , message me 
 
 Thank you for using my calculator
