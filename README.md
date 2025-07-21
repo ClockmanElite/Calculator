@@ -12,4 +12,4 @@ A simple, fast and responsive calculator built using HTML, CSS and JavaScript.
 If you interested with my calculator , pleased donate me 
 If you need a support , message me 
 
-Thank you for using my computer 
+Thank you for using my calculator
